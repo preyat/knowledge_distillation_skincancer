@@ -1,0 +1,1 @@
+Correctly identified = 961, Total images = 1103, Accuracy = 87.13%

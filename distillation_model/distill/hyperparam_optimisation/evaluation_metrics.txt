@@ -1,0 +1,912 @@
+Epoch 0: Accuracy: 0.6854034451495921, Area under PR: 0.6165628397400598, Area under ROC: 0.8211003342051729
+Epoch 1: Accuracy: 0.4460562103354488, Area under PR: 0.5723376935412292, Area under ROC: 0.6880358180761407
+Epoch 2: Accuracy: 0.6672710788757933, Area under PR: 0.6114950231397354, Area under ROC: 0.8110196890438827
+Epoch 3: Accuracy: 0.7017225747960109, Area under PR: 0.6215195809080483, Area under ROC: 0.8301729148503343
+Epoch 4: Accuracy: 0.5838621940163191, Area under PR: 0.5927797905678335, Area under ROC: 0.7646487213019472
+Epoch 5: Accuracy: 0.6627379873073436, Area under PR: 0.6102939189974549, Area under ROC: 0.8084995277535599
+Epoch 6: Accuracy: 0.6690843155031732, Area under PR: 0.6119825599266021, Area under ROC: 0.8120277535600117
+Epoch 7: Accuracy: 0.6373526745240253, Area under PR: 0.6040038144755232, Area under ROC: 0.7943866245277535
+Epoch 8: Accuracy: 0.5548504079782411, Area under PR: 0.5921926910299004, Area under ROC: 0.7525201612903226
+Epoch 9: Accuracy: 0.3989120580235721, Area under PR: 0.5671923279684027, Area under ROC: 0.6618261406567858
+Epoch LR: 0.0001, Temp: 0.1, Alpha: 0.1, Accuracy: 0.5548504079782411: Accuracy: 0.3989120580235721, Area under PR: 0.5671923279684027, Area under ROC: 0.6618261406567858
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.33      0.50       992
+         1.0       0.14      0.99      0.25       111
+
+    accuracy                           0.40      1103
+   macro avg       0.57      0.66      0.37      1103
+weighted avg       0.91      0.40      0.47      1103
+Epoch 0: Accuracy: 0.599274705349048, Area under PR: 0.5957673164490737, Area under ROC: 0.7732172696890439
+Epoch 1: Accuracy: 0.6128739800543971, Area under PR: 0.5985607449508479, Area under ROC: 0.7807777535600117
+Epoch 2: Accuracy: 0.4342701722574796, Area under PR: 0.570982911064346, Area under ROC: 0.6814833987213019
+Epoch 3: Accuracy: 0.6699909338168631, Area under PR: 0.6122278744197823, Area under ROC: 0.8125317858180762
+Epoch 4: Accuracy: 0.642792384406165, Area under PR: 0.6052927410340501, Area under ROC: 0.7974108180761406
+Epoch 5: Accuracy: 0.5947416137805984, Area under PR: 0.5902730605682187, Area under ROC: 0.7666966361522813
+Epoch 6: Accuracy: 0.5729827742520399, Area under PR: 0.590776390859237, Area under ROC: 0.7586003342051729
+Epoch 7: Accuracy: 0.4913871260199456, Area under PR: 0.5780383568911464, Area under ROC: 0.7132374309793664
+Epoch 8: Accuracy: 0.6609247506799637, Area under PR: 0.6052032226102942, Area under ROC: 0.803490990990991
+Epoch 9: Accuracy: 0.7198549410698096, Area under PR: 0.6275277520207615, Area under ROC: 0.8402535600116245
+Epoch LR: 0.0001, Temp: 0.1, Alpha: 0.5, Accuracy: 0.7198549410698096: Accuracy: 0.7198549410698096, Area under PR: 0.6275277520207615, Area under ROC: 0.8402535600116245
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.69      0.82       992
+         1.0       0.26      0.99      0.42       111
+
+    accuracy                           0.72      1103
+   macro avg       0.63      0.84      0.62      1103
+weighted avg       0.92      0.72      0.78      1103
+Epoch 0: Accuracy: 0.6890299184043518, Area under PR: 0.617630220581544, Area under ROC: 0.823116463237431
+Epoch 1: Accuracy: 0.6908431550317317, Area under PR: 0.6135493950189667, Area under ROC: 0.82012405550712
+Epoch 2: Accuracy: 0.7479601087941976, Area under PR: 0.6242151661159236, Area under ROC: 0.8438771432723047
+Epoch 3: Accuracy: 0.7225747960108794, Area under PR: 0.6238588683845839, Area under ROC: 0.8377651845393781
+Epoch 4: Accuracy: 0.7089755213055303, Area under PR: 0.6192340579028118, Area under ROC: 0.8302047006684103
+Epoch 5: Accuracy: 0.7243880326382592, Area under PR: 0.6198757538103221, Area under ROC: 0.8347727768090671
+Epoch 6: Accuracy: 0.6844968268359021, Area under PR: 0.6070517119702664, Area under ROC: 0.8125953574542285
+Epoch 7: Accuracy: 0.6155938349954669, Area under PR: 0.5991382980857364, Area under ROC: 0.7822898503342052
+Epoch 8: Accuracy: 0.7026291931097008, Area under PR: 0.61255773035425, Area under ROC: 0.8226760026155187
+Epoch 9: Accuracy: 0.6944696282864914, Area under PR: 0.6100183596583789, Area under ROC: 0.8181397122929381
+Epoch LR: 0.0001, Temp: 0.1, Alpha: 0.9, Accuracy: 0.7026291931097008: Accuracy: 0.6944696282864914, Area under PR: 0.6100183596583789, Area under ROC: 0.8181397122929381
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.66      0.80       992
+         1.0       0.24      0.97      0.39       111
+
+    accuracy                           0.69      1103
+   macro avg       0.62      0.82      0.59      1103
+weighted avg       0.92      0.69      0.76      1103
+Epoch 0: Accuracy: 0.7198549410698096, Area under PR: 0.6229072246892964, Area under ROC: 0.8362530877651845
+Epoch 1: Accuracy: 0.6609247506799637, Area under PR: 0.6098204402631066, Area under ROC: 0.807491463237431
+Epoch 2: Accuracy: 0.4696282864913871, Area under PR: 0.5797413793103449, Area under ROC: 0.705141129032258
+Epoch 3: Accuracy: 0.600181323662738, Area under PR: 0.5913501640492065, Area under ROC: 0.7697208297006684
+Epoch 4: Accuracy: 0.5947416137805984, Area under PR: 0.594869667961693, Area under ROC: 0.7706971083987213
+Epoch 5: Accuracy: 0.6228467815049864, Area under PR: 0.6053130929791272, Area under ROC: 0.7903225806451613
+Epoch 6: Accuracy: 0.6391659111514053, Area under PR: 0.6044300669797567, Area under ROC: 0.7953946890438827
+Epoch 7: Accuracy: 0.599274705349048, Area under PR: 0.6003616636528029, Area under ROC: 0.7772177419354839
+Epoch 8: Accuracy: 0.29465095194922936, Area under PR: 0.562429696287964, Area under ROC: 0.6078629032258065
+Epoch 9: Accuracy: 0.5983680870353582, Area under PR: 0.5955864858117608, Area under ROC: 0.7727132374309794
+Epoch LR: 0.0001, Temp: 1, Alpha: 0.1, Accuracy: 0.5983680870353582: Accuracy: 0.5983680870353582, Area under PR: 0.5955864858117608, Area under ROC: 0.7727132374309794
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.55      0.71       992
+         1.0       0.20      0.99      0.33       111
+
+    accuracy                           0.60      1103
+   macro avg       0.60      0.77      0.52      1103
+weighted avg       0.92      0.60      0.67      1103
+Epoch 0: Accuracy: 0.5330915684496826, Area under PR: 0.584089830293366, Area under ROC: 0.7364229148503343
+Epoch 1: Accuracy: 0.6010879419764279, Area under PR: 0.5961309540148177, Area under ROC: 0.7742253342051728
+Epoch 2: Accuracy: 0.5602901178603807, Area under PR: 0.588541397244933, Area under ROC: 0.7515438825922697
+Epoch 3: Accuracy: 0.7171350861287398, Area under PR: 0.6265901348186113, Area under ROC: 0.838741463237431
+Epoch 4: Accuracy: 0.6518585675430644, Area under PR: 0.6075106707781012, Area under ROC: 0.8024511406567858
+Epoch 5: Accuracy: 0.7098821396192203, Area under PR: 0.6241539328574687, Area under ROC: 0.8347092051729149
+Epoch 6: Accuracy: 0.6645512239347234, Area under PR: 0.6107713516252006, Area under ROC: 0.809507592269689
+Epoch 7: Accuracy: 0.6591115140525838, Area under PR: 0.6093508665080106, Area under ROC: 0.806483398721302
+Epoch 8: Accuracy: 0.7407071622846781, Area under PR: 0.6351893109814544, Area under ROC: 0.8518463019471084
+Epoch 9: Accuracy: 0.6300997280145059, Area under PR: 0.6023317833757448, Area under ROC: 0.7903543664632374
+Epoch LR: 0.0001, Temp: 1, Alpha: 0.5, Accuracy: 0.7407071622846781: Accuracy: 0.6300997280145059, Area under PR: 0.6023317833757448, Area under ROC: 0.7903543664632374
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.59      0.74       992
+         1.0       0.21      0.99      0.35       111
+
+    accuracy                           0.63      1103
+   macro avg       0.61      0.79      0.55      1103
+weighted avg       0.92      0.63      0.70      1103
+Epoch 0: Accuracy: 0.7751586582048957, Area under PR: 0.6362168710310142, Area under ROC: 0.85899811101424
+Epoch 1: Accuracy: 0.8068902991840435, Area under PR: 0.6622101093046809, Area under ROC: 0.8846401845393781
+Epoch 2: Accuracy: 0.7524932003626473, Area under PR: 0.6399278622439635, Area under ROC: 0.8583987213019472
+Epoch 3: Accuracy: 0.7896645512239348, Area under PR: 0.648083802681057, Area under ROC: 0.8710630993897124
+Epoch 4: Accuracy: 0.729827742520399, Area under PR: 0.6218414511778649, Area under ROC: 0.8377969703574542
+Epoch 5: Accuracy: 0.7688123300090662, Area under PR: 0.6378464139570215, Area under ROC: 0.8594703574542285
+Epoch 6: Accuracy: 0.7905711695376246, Area under PR: 0.6531402128549767, Area under ROC: 0.8755676038942168
+Epoch 7: Accuracy: 0.7107887579329103, Area under PR: 0.6244534775495366, Area under ROC: 0.8352132374309794
+Epoch 8: Accuracy: 0.7461468721668177, Area under PR: 0.6327244826896937, Area under ROC: 0.8508700232490555
+Epoch 9: Accuracy: 0.728921124206709, Area under PR: 0.6307527262209679, Area under ROC: 0.8452938825922698
+Epoch LR: 0.0001, Temp: 1, Alpha: 0.9, Accuracy: 0.7461468721668177: Accuracy: 0.728921124206709, Area under PR: 0.6307527262209679, Area under ROC: 0.8452938825922698
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.70      0.82       992
+         1.0       0.27      0.99      0.42       111
+
+    accuracy                           0.73      1103
+   macro avg       0.63      0.85      0.62      1103
+weighted avg       0.93      0.73      0.78      1103
+Epoch 0: Accuracy: 0.699909338168631, Area under PR: 0.6209488046523405, Area under ROC: 0.8291648503342053
+Epoch 1: Accuracy: 0.7234814143245694, Area under PR: 0.6287990461982342, Area under ROC: 0.8422696890438827
+Epoch 2: Accuracy: 0.7733454215775158, Area under PR: 0.6491521472707249, Area under ROC: 0.869991463237431
+Epoch 3: Accuracy: 0.7216681776971895, Area under PR: 0.6281603431138788, Area under ROC: 0.8412616245277535
+Epoch 4: Accuracy: 0.6872166817769719, Area under PR: 0.6170941791016796, Area under ROC: 0.8221083987213019
+Epoch 5: Accuracy: 0.6255666364460563, Area under PR: 0.6013127893266699, Area under ROC: 0.7878342051729149
+Epoch 6: Accuracy: 0.7316409791477788, Area under PR: 0.6271333413146065, Area under ROC: 0.8428055071200232
+Epoch 7: Accuracy: 0.6953762466001813, Area under PR: 0.619544310270318, Area under ROC: 0.8266446890438827
+Epoch 8: Accuracy: 0.7706255666364461, Area under PR: 0.638684402783837, Area under ROC: 0.8604784219703576
+Epoch 9: Accuracy: 0.7923844061650045, Area under PR: 0.6495230606636082, Area under ROC: 0.8725751961639059
+Epoch LR: 0.0001, Temp: 5, Alpha: 0.1, Accuracy: 0.7923844061650045: Accuracy: 0.7923844061650045, Area under PR: 0.6495230606636082, Area under ROC: 0.8725751961639059
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.77      0.87       992
+         1.0       0.32      0.97      0.49       111
+
+    accuracy                           0.79      1103
+   macro avg       0.66      0.87      0.68      1103
+weighted avg       0.93      0.79      0.83      1103
+Epoch 0: Accuracy: 0.728921124206709, Area under PR: 0.6307527262209679, Area under ROC: 0.8452938825922698
+Epoch 1: Accuracy: 0.7697189483227561, Area under PR: 0.6428671383905534, Area under ROC: 0.863974861958733
+Epoch 2: Accuracy: 0.7561196736174071, Area under PR: 0.641451450154986, Area under ROC: 0.8604148503342053
+Epoch 3: Accuracy: 0.8159564823209429, Area under PR: 0.6631710892816968, Area under ROC: 0.8856800348735833
+Epoch 4: Accuracy: 0.7062556663644606, Area under PR: 0.6183477253139616, Area under ROC: 0.8286926038942168
+Epoch 5: Accuracy: 0.7497733454215775, Area under PR: 0.6388059475094833, Area under ROC: 0.8568866245277537
+Epoch 6: Accuracy: 0.7733454215775158, Area under PR: 0.6399590900133595, Area under ROC: 0.861990518744551
+Epoch 7: Accuracy: 0.7370806890299184, Area under PR: 0.6337934161811626, Area under ROC: 0.8498301729148504
+Epoch 8: Accuracy: 0.7688123300090662, Area under PR: 0.6424500954925263, Area under ROC: 0.8634708297006682
+Epoch 9: Accuracy: 0.785131459655485, Area under PR: 0.6457411507991268, Area under ROC: 0.8685429380993898
+Epoch LR: 0.0001, Temp: 5, Alpha: 0.5, Accuracy: 0.785131459655485: Accuracy: 0.785131459655485, Area under PR: 0.6457411507991268, Area under ROC: 0.8685429380993898
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.76      0.86       992
+         1.0       0.32      0.97      0.48       111
+
+    accuracy                           0.79      1103
+   macro avg       0.66      0.87      0.67      1103
+weighted avg       0.93      0.79      0.83      1103
+Epoch 0: Accuracy: 0.8032638259292838, Area under PR: 0.6601074858478907, Area under ROC: 0.88262405550712
+Epoch 1: Accuracy: 0.814143245693563, Area under PR: 0.6620399623441181, Area under ROC: 0.8846719703574543
+Epoch 2: Accuracy: 0.8096101541251133, Area under PR: 0.6638218995255011, Area under ROC: 0.8861522813135716
+Epoch 3: Accuracy: 0.742520398912058, Area under PR: 0.6266638946768158, Area under ROC: 0.8448534219703575
+Epoch 4: Accuracy: 0.8304623753399819, Area under PR: 0.6637718010394801, Area under ROC: 0.8857436065097355
+Epoch 5: Accuracy: 0.8467815049864007, Area under PR: 0.6715883503021025, Area under ROC: 0.8908157149084569
+Epoch 6: Accuracy: 0.7896645512239348, Area under PR: 0.6526645709565982, Area under ROC: 0.8750635716361523
+Epoch 7: Accuracy: 0.8159564823209429, Area under PR: 0.6631710892816968, Area under ROC: 0.8856800348735833
+Epoch 8: Accuracy: 0.7896645512239348, Area under PR: 0.6572391272329856, Area under ROC: 0.8790640438825923
+Epoch 9: Accuracy: 0.7878513145965549, Area under PR: 0.6471384493552514, Area under ROC: 0.8700550348735833
+Epoch LR: 0.0001, Temp: 5, Alpha: 0.9, Accuracy: 0.7896645512239348: Accuracy: 0.7878513145965549, Area under PR: 0.6471384493552514, Area under ROC: 0.8700550348735833
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.77      0.87       992
+         1.0       0.32      0.97      0.48       111
+
+    accuracy                           0.79      1103
+   macro avg       0.66      0.87      0.67      1103
+weighted avg       0.93      0.79      0.83      1103
+Epoch 0: Accuracy: 0.7597461468721668, Area under PR: 0.6430076281817523, Area under ROC: 0.8624309793664633
+Epoch 1: Accuracy: 0.7488667271078876, Area under PR: 0.6384358512844649, Area under ROC: 0.856382592269689
+Epoch 2: Accuracy: 0.7733454215775158, Area under PR: 0.6491521472707249, Area under ROC: 0.869991463237431
+Epoch 3: Accuracy: 0.7842248413417952, Area under PR: 0.6498686237974346, Area under ROC: 0.8720393780877652
+Epoch 4: Accuracy: 0.7706255666364461, Area under PR: 0.647882506309799, Area under ROC: 0.8684793664632375
+Epoch 5: Accuracy: 0.8395285584768812, Area under PR: 0.6703915052760909, Area under ROC: 0.8907839290903807
+Epoch 6: Accuracy: 0.786038077969175, Area under PR: 0.6507897375845643, Area under ROC: 0.8730474426038942
+Epoch 7: Accuracy: 0.7869446962828649, Area under PR: 0.6466699433687861, Area under ROC: 0.8695510026155187
+Epoch 8: Accuracy: 0.8322756119673618, Area under PR: 0.6650587085763877, Area under ROC: 0.8867516710258646
+Epoch 9: Accuracy: 0.7869446962828649, Area under PR: 0.6512543344508798, Area under ROC: 0.8735514748619588
+Epoch LR: 0.0001, Temp: 10, Alpha: 0.1, Accuracy: 0.8322756119673618: Accuracy: 0.7869446962828649, Area under PR: 0.6512543344508798, Area under ROC: 0.8735514748619588
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.77      0.87       992
+         1.0       0.32      0.98      0.48       111
+
+    accuracy                           0.79      1103
+   macro avg       0.66      0.87      0.67      1103
+weighted avg       0.93      0.79      0.83      1103
+Epoch 0: Accuracy: 0.800543970988214, Area under PR: 0.6585642759713475, Area under ROC: 0.8811119587329265
+Epoch 1: Accuracy: 0.7932910244786945, Area under PR: 0.6591535524268212, Area under ROC: 0.8810801729148504
+Epoch 2: Accuracy: 0.785131459655485, Area under PR: 0.6549083422245948, Area under ROC: 0.8765438825922698
+Epoch 3: Accuracy: 0.757026291931097, Area under PR: 0.6418373988167967, Area under ROC: 0.8609188825922697
+Epoch 4: Accuracy: 0.7688123300090662, Area under PR: 0.6470477057512416, Area under ROC: 0.8674713019471083
+Epoch 5: Accuracy: 0.8041704442429737, Area under PR: 0.656070713022442, Area under ROC: 0.8791276155187446
+Epoch 6: Accuracy: 0.8241160471441523, Area under PR: 0.6594050402108549, Area under ROC: 0.882215380703284
+Epoch 7: Accuracy: 0.8159564823209429, Area under PR: 0.6631710892816968, Area under ROC: 0.8856800348735833
+Epoch 8: Accuracy: 0.8241160471441523, Area under PR: 0.6594050402108549, Area under ROC: 0.882215380703284
+Epoch 9: Accuracy: 0.8250226654578422, Area under PR: 0.6600161321052398, Area under ROC: 0.8827194129613485
+Epoch LR: 0.0001, Temp: 10, Alpha: 0.5, Accuracy: 0.8250226654578422: Accuracy: 0.8250226654578422, Area under PR: 0.6600161321052398, Area under ROC: 0.8827194129613485
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.81      0.89       992
+         1.0       0.36      0.95      0.52       111
+
+    accuracy                           0.83      1103
+   macro avg       0.68      0.88      0.71      1103
+weighted avg       0.93      0.83      0.86      1103
+Epoch 0: Accuracy: 0.8540344514959202, Area under PR: 0.6687623122187237, Area under ROC: 0.8868470284800929
+Epoch 1: Accuracy: 0.85675430643699, Area under PR: 0.684377227894907, Area under ROC: 0.9003605419936065
+Epoch 2: Accuracy: 0.7932910244786945, Area under PR: 0.6454266385489389, Area under ROC: 0.8690787561755303
+Epoch 3: Accuracy: 0.7552130553037172, Area under PR: 0.6364599435221876, Area under ROC: 0.8559103458297006
+Epoch 4: Accuracy: 0.8540344514959202, Area under PR: 0.6820340995975802, Area under ROC: 0.898848445219413
+Epoch 5: Accuracy: 0.8476881233000907, Area under PR: 0.672322041397189, Area under ROC: 0.8913197471665214
+Epoch 6: Accuracy: 0.8331822302810517, Area under PR: 0.6612051954052088, Area under ROC: 0.8832552310374892
+Epoch 7: Accuracy: 0.8213961922030825, Area under PR: 0.6621285519426953, Area under ROC: 0.8847037561755303
+Epoch 8: Accuracy: 0.8549410698096102, Area under PR: 0.6872172718413011, Area under ROC: 0.9033529497239174
+Epoch 9: Accuracy: 0.8268359020852222, Area under PR: 0.6612508725767707, Area under ROC: 0.8837274774774775
+Epoch LR: 0.0001, Temp: 10, Alpha: 0.9, Accuracy: 0.8549410698096102: Accuracy: 0.8268359020852222, Area under PR: 0.6612508725767707, Area under ROC: 0.8837274774774775
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.81      0.89       992
+         1.0       0.36      0.95      0.53       111
+
+    accuracy                           0.83      1103
+   macro avg       0.68      0.88      0.71      1103
+weighted avg       0.93      0.83      0.86      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.01, Temp: 0.1, Alpha: 0.1, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.01, Temp: 0.1, Alpha: 0.5, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.01, Temp: 0.1, Alpha: 0.9, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.01, Temp: 1, Alpha: 0.1, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.01, Temp: 1, Alpha: 0.5, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.01, Temp: 1, Alpha: 0.9, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.01, Temp: 5, Alpha: 0.1, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.01, Temp: 5, Alpha: 0.5, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.01, Temp: 5, Alpha: 0.9, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.01, Temp: 10, Alpha: 0.1, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.01, Temp: 10, Alpha: 0.5, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.01, Temp: 10, Alpha: 0.9, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.1, Temp: 0.1, Alpha: 0.1, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.1, Temp: 0.1, Alpha: 0.5, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.1, Temp: 0.1, Alpha: 0.9, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.1, Temp: 1, Alpha: 0.1, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.1, Temp: 1, Alpha: 0.5, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.1, Temp: 1, Alpha: 0.9, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.1, Temp: 5, Alpha: 0.1, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.1, Temp: 5, Alpha: 0.5, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.1, Temp: 5, Alpha: 0.9, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.1, Temp: 10, Alpha: 0.1, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.1, Temp: 10, Alpha: 0.5, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 0.1, Temp: 10, Alpha: 0.9, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 1.0, Temp: 0.1, Alpha: 0.1, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 1.0, Temp: 0.1, Alpha: 0.5, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 1.0, Temp: 0.1, Alpha: 0.9, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 1.0, Temp: 1, Alpha: 0.1, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 1.0, Temp: 1, Alpha: 0.5, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 1.0, Temp: 1, Alpha: 0.9, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 1.0, Temp: 5, Alpha: 0.1, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 1.0, Temp: 5, Alpha: 0.5, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 1.0, Temp: 5, Alpha: 0.9, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 1.0, Temp: 10, Alpha: 0.1, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 1.0, Temp: 10, Alpha: 0.5, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
+Epoch 0: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 1: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 2: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 3: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 4: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 5: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 6: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 7: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 8: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch 9: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+Epoch LR: 1.0, Temp: 10, Alpha: 0.9, Accuracy: 0.10063463281958296: Accuracy: 0.10063463281958296, Area under PR: 0.5503173164097914, Area under ROC: 0.5
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       992
+         1.0       0.10      1.00      0.18       111
+
+    accuracy                           0.10      1103
+   macro avg       0.05      0.50      0.09      1103
+weighted avg       0.01      0.10      0.02      1103
